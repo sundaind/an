@@ -1,0 +1,22 @@
+{
+    "token": "NTQ4NTQxMzk0NTgzNTUyMDAx.D15Lsw.Z4p-Qk-f-WxlhiHQmOSWhDs2YtM",
+    "prefix": "/",
+    "rainbowdelay": 5000,
+    "rainbowcommand": "rainbow",
+    "rainbowstop": "stop",
+    "rainbowrole": [
+        "#9400D3",
+        "#4B0082",
+        "#0000FF",
+        "#00FF00",
+        "#FFFF00",
+        "#FF7F00",
+        "#FF0000"
+    ],
+    "messageresponse": {
+        "missingperm": "Saya perlu izin 'MANAGE_ROLES' untuk memulai Rainbow! .",
+        "success": "Rainbow Sudah Aktif",
+        "rainbowstop": "Rainbow Sudah OFF",
+        "rolenotfound": "Role Tidak ditemukan!"
+    }
+}
