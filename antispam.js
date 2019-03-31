@@ -40,4 +40,4 @@ client.on('message', msg => {
   client.emit('checkMessage', msg);
 
 }) ///GANTI TOKEN NYA SAMA BOT TOKEN KAMU 
-client.login("NTQ4NTQxMzk0NTgzNTUyMDAx.D15Lsw.Z4p-Qk-f-WxlhiHQmOSWhDs2YtM");
+client.login("NTQ4NTQxMzk0NTgzNTUyMDAx.XKDmNw.suM15v1im8JeybTyq3wY72uT7OE");
