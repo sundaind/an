@@ -1,1 +1,20 @@
 
+{
+  "name": "rainboww",
+  "version": "1.0.0",
+  "description": "bot dc",
+  "main": "bot.js",
+  "dependencies": {
+    "discord-anti-spam": "^2.0.0",
+    "discord-money": "^0.2.0",
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ansel",
+  "license": "ISC"
+}
