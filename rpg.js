@@ -559,7 +559,7 @@ msg.channel.sendCode("xl", (evaled));
 
 //Bot login.
 
-bot.login('NTQ4NTQxMzk0NTgzNTUyMDAx.D15Lsw.Z4p-Qk-f-WxlhiHQmOSWhDs2YtM').catch((err) => console.log(`[Client] Failed to connect: ${err.message}`))
+bot.login('NTQ4NTQxMzk0NTgzNTUyMDAx.XKDmNw.suM15v1im8JeybTyq3wY72uT7OE').catch((err) => console.log(`[Client] Failed to connect: ${err.message}`))
 
 //Saves endless looking around if there is an Uncaught Promise Error.
 
