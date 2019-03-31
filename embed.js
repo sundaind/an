@@ -77,4 +77,4 @@ Client.on("message", async (message) => {
 
 });
 
-Client.login("NTQ4NTQxMzk0NTgzNTUyMDAx.D15Lsw.Z4p-Qk-f-WxlhiHQmOSWhDs2YtM");
+Client.login("NTQ4NTQxMzk0NTgzNTUyMDAx.XKDmNw.suM15v1im8JeybTyq3wY72uT7OE");
